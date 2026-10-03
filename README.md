@@ -20,7 +20,7 @@ My solutions to the **#7DaysOfCode Machine Learning challenge** by Alura. Over s
 |---|---|---|
 | 1 | Exploratory Data Analysis | ✅ |
 | 2 | Data preprocessing | ✅ |
-| 3 | Coming soon | ⏳ |
+| 3 | Data Splitting and Cross-Validation | ✅ |
 | 4 | Coming soon | ⏳ |
 | 5 | Coming soon | ⏳ |
 | 6 | Coming soon | ⏳ |
