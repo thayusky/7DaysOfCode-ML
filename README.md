@@ -19,7 +19,7 @@ My solutions to the **#7DaysOfCode Machine Learning challenge** by Alura. Over s
 | Day | Topic | Status |
 |---|---|---|
 | 1 | Exploratory Data Analysis | ✅ |
-| 2 | Coming soon | ⏳ |
+| 2 | Data preprocessing | ✅ |
 | 3 | Coming soon | ⏳ |
 | 4 | Coming soon | ⏳ |
 | 5 | Coming soon | ⏳ |
